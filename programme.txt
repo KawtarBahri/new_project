@@ -4,7 +4,4 @@
 * Modifier des fichiers 
 * Voir l'historique 
 * Ne pas avoir peur des merges 
-
-* pretend sth cool is writen here
-
 * Ajouter les utilisateurs ?
